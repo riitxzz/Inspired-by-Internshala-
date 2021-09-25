@@ -1,0 +1,101 @@
+/* NAVBAR SECTION */
+
+.logo-image{
+    height:80px;
+    width:140px;
+    margin: 2% 18% ;
+}
+.nav-item {
+    margin: 2% 4% ;
+}
+
+.nav-button{
+    margin: 2% 4% 3% auto;
+}
+
+/* SEARCH-FORM */
+
+.search-form{
+    width: 50%;
+    margin: 3% 25%;
+}
+
+/* MAIN-PAGE-SECTION */
+/* 
+.carousel-picture1{
+ width: 70%;
+ height: 18%;
+} */
+
+ #carouselIndicators{
+    text-align: center;
+    height: 30% ; 
+} 
+
+/* INTERNSHIP-CITY-SECTION */
+
+.card-container{
+   padding: 4% 5% ;
+}
+
+.card-header{
+    text-align: center;
+}
+
+.cites{
+  margin: 7% auto;
+}
+
+.categories{
+    margin: 7% auto;
+}
+.training{
+    margin: 11% auto;
+}
+
+.fresher{
+    margin: 7% auto;
+}
+
+.card-body{
+    text-decoration: none ;
+    text-align: center ;
+    color: black;
+    text-shadow: black;
+
+}
+
+/* .work-from-home:hover{
+ border: 2px solid black;
+} */
+
+/* FOOTER */
+#footer{
+ background-color: black;
+  color: white;
+}
+.footer-list-item{ 
+    text-decoration: none;
+    color: white;
+}
+#stream-container{
+    margin-top: 4%;
+}
+
+#about-container{
+    margin-top: 4%;
+}
+.fab
+{
+    margin-left: 3% ;
+}
+.download{
+    margin: 3%;
+}
+
+
+@media ( max-width: 1028px){
+    .d-flex{
+        width: ;
+    }
+}
